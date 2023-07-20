@@ -10,5 +10,17 @@
   },
   "about.qmd": {
     "about.html": "41647239"
+  },
+  "anbravo_website/posts/post-with-code/index.qmd": {
+    "index.html": "7a7c3f3c"
+  },
+  "anbravo_website/posts/welcome/index.qmd": {
+    "index.html": "54a4ed04"
+  },
+  "anbravo_website/index.qmd": {
+    "index.html": "426abdaf"
+  },
+  "anbravo_website/about.qmd": {
+    "about.html": "a578b3c5"
   }
 }
