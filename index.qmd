@@ -1,5 +1,5 @@
 ---
-title: "anbravo_website"
+title: "Ana Bravo"
 listing:
   contents: posts
   sort: "date desc"
