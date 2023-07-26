@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+<iframe width="800" height="800" src="ana_bravo_vitae_cv_2023.pdf">
+
+</iframe>

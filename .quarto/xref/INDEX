@@ -22,5 +22,8 @@
   },
   "anbravo_website/about.qmd": {
     "about.html": "a578b3c5"
+  },
+  "resume.qmd": {
+    "resume.html": "e80c9a99"
   }
 }
