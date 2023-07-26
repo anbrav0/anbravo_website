@@ -4,17 +4,16 @@ project:
 website:
   title: "Ana Bravo"
   navbar:
-    right:
-      - about.qmd
+    left:
+      - href: index.qmd
+        text: Home
       - resume.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+  
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [flatly, light.scss]
+      dark: [darkly, dark.scss]
 
 editor: visual
 

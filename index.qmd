@@ -1,12 +1,21 @@
 ---
 title: "Ana Bravo"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+image: head_shot_2022.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/anabananaqtpie
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anabravobiostats/
+    - icon: github
+      text: Github
+      href: https://github.com/anbrav0
+    - icon: envelope
+      text: Email 
+      href: mailto:abrav043@fiu.edu 
 ---
+
+My name is Ana Bravo. I am Biostatistician by nature and a data analyst by heart who is interested in applying my vast knowledge in academic and community research into the health care field. My unique, strong, and well-rounded experience in statistical analysis, research, and community outreach not only makes me an ideal candidate, but my background allows me to make sound and quick decisions into a collaborative workforce and provide key insight in decision making. My hope for the future is to bridge gaps between scientific investigators and the community they research in the hopes to create a more accessible field for the betterment and advanced in open source science.
