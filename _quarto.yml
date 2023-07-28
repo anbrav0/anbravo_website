@@ -9,6 +9,16 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
+    tools:
+      - icon: github
+        text: GitHub
+        href: https://github.com/anbrav0
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/anabravobiostats/
+      - icon: mastodon
+        text: Mastodon
+        href: https://fosstodon.org/@anabananapie
   
 format:
   html:
