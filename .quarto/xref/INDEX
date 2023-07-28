@@ -28,5 +28,20 @@
   },
   "anbravo_website/resume.qmd": {
     "resume.html": "f1361386"
+  },
+  "GitHub/resume.qmd": {
+    "resume.html": "324e230d"
+  },
+  "GitHub/posts/post-with-code/index.qmd": {
+    "index.html": "de434265"
+  },
+  "GitHub/posts/welcome/index.qmd": {
+    "index.html": "1f16be84"
+  },
+  "GitHub/index.qmd": {
+    "index.html": "25d6e79e"
+  },
+  "GitHub/about.qmd": {
+    "about.html": "928505ad"
   }
 }
