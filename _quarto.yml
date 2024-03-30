@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
-      - Teaching (coming soon)
+      - Teaching.qmd
     tools:
       - icon: github
         text: GitHub
